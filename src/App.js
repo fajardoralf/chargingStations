@@ -3,8 +3,6 @@ import axios from "axios";
 
 import Map from "./components/Map";
 
-//import "./App.css";
-
 class App extends Component {
   constructor(props) {
     super(props);
@@ -20,7 +18,7 @@ class App extends Component {
 
   getData = () => {
     axios
-      .get("https://api.myjson.com/bins/85zay")
+      .get("https://api.myjson.com/bins/1bgl8a")
       .then(response => this.setState({ data: response.data.chargers }));
   };
 
