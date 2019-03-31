@@ -20,7 +20,7 @@ class App extends Component {
 
   getData = () => {
     axios
-      .get("https://api.myjson.com/bins/k0i8q")
+      .get("https://api.myjson.com/bins/85zay")
       .then(response => this.setState({ data: response.data.chargers }));
   };
 

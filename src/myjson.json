@@ -25,7 +25,7 @@
       "openingHours": "24/7",
       "chargingStations": 2,
       "lnglat": [59.916, 10.826],
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRItAzdtZ_RRmOK8NGmOJJWhUy_p69n2YEDTSvJPxDQTvToDX"
+      "img": "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/43/a6/3743a6ad-5fb0-6b64-0b78-908ea4bcc262/mzl.uifwdawi.png/1200x630wa.png"
     },
     {
       "key": 4,
@@ -43,7 +43,7 @@
       "openingHours": "24/7",
       "chargingStations": 16,
       "lnglat": [59.926, 10.849],
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SqDTRf_W_gqOG3sadegAhmG6GFu6PIjK2R-cLmpq5u_9BUjF"
+      "img": "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/43/a6/3743a6ad-5fb0-6b64-0b78-908ea4bcc262/mzl.uifwdawi.png/1200x630wa.png"
     },
     {
       "key": 6,
@@ -61,7 +61,7 @@
       "openingHours": "24/7",
       "chargingStations": 86,
       "lnglat": [59.909, 10.737],
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+      "img": "https://ap.mnocdn.no/images/bb34f9d5-b48d-416c-ba61-52e4c4b14592?fit=crop&q=80&w=1440"
     },
     {
       "key": 8,
@@ -70,7 +70,7 @@
       "openingHours": "24/7",
       "lnglat": [59.909, 10.737],
       "chargingStations": 36,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+      "img": "https://ap.mnocdn.no/images/bb34f9d5-b48d-416c-ba61-52e4c4b14592?fit=crop&q=80&w=1440"
     },
     {
       "key": 9,
@@ -79,7 +79,7 @@
       "openingHours": "24/7",
       "lnglat": [59.902, 10.754],
       "chargingStations": 12,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+      "img": "https://ap.mnocdn.no/images/bb34f9d5-b48d-416c-ba61-52e4c4b14592?fit=crop&q=80&w=1440"
     }
   ]
 }
