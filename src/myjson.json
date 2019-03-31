@@ -1,0 +1,85 @@
+{
+  "chargers": [
+    {
+      "key": 1,
+      "name": "Mobile Ensjø AS",
+      "address": "Gladengveien 9, 0661 Oslo",
+      "openingHours": "07-17",
+      "chargingStations": 4,
+      "lnglat": [59.916, 10.79],
+      "img": "https://mobile.no/images/mobile-logo-v2.svg"
+    },
+    {
+      "key": 2,
+      "name": "Fortum Hurtigladestasjon",
+      "address": "Maridalsveien 15, 0175 Oslo",
+      "openingHours": "07-17",
+      "chargingStations": 104,
+      "lnglat": [59.924, 10.752],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+    },
+    {
+      "key": 3,
+      "name": "Grønn Kontakt",
+      "address": "Ole Deviks vei 10, 0666 Oslo",
+      "openingHours": "24/7",
+      "chargingStations": 2,
+      "lnglat": [59.916, 10.826],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRItAzdtZ_RRmOK8NGmOJJWhUy_p69n2YEDTSvJPxDQTvToDX"
+    },
+    {
+      "key": 4,
+      "name": "Brynsenteret",
+      "address": "Østensjøveien 79, 0667 Oslo",
+      "openingHours": "24/7",
+      "chargingStations": 30,
+      "lnglat": [59.906, 10.821],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SqDTRf_W_gqOG3sadegAhmG6GFu6PIjK2R-cLmpq5u_9BUjF"
+    },
+    {
+      "key": 5,
+      "name": "Alna Senter - Elbil Ladestasjon",
+      "address": "Strømsveien 245, 0614 Oslo",
+      "openingHours": "24/7",
+      "chargingStations": 16,
+      "lnglat": [59.926, 10.849],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SqDTRf_W_gqOG3sadegAhmG6GFu6PIjK2R-cLmpq5u_9BUjF"
+    },
+    {
+      "key": 6,
+      "name": "Fortum Hurtigladestasjon",
+      "address": "Monrads gate 13A, 0614 Oslo",
+      "openingHours": "24/7",
+      "chargingStations": 14,
+      "lnglat": [59.92, 10.773],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+    },
+    {
+      "key": 7,
+      "name": "Akershus festning",
+      "address": "Myntgata 5, 0151 Oslo",
+      "openingHours": "24/7",
+      "chargingStations": 86,
+      "lnglat": [59.909, 10.737],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+    },
+    {
+      "key": 8,
+      "name": "Filipstadkaia",
+      "address": "Filipstadkaia, 0250 Oslo",
+      "openingHours": "24/7",
+      "lnglat": [59.909, 10.737],
+      "chargingStations": 36,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+    },
+    {
+      "key": 9,
+      "name": "Europark Sørenga",
+      "address": "Sørenga, 0150 Oslo",
+      "openingHours": "24/7",
+      "lnglat": [59.902, 10.754],
+      "chargingStations": 12,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9wiWkbPjAqeX6_hXRLhngMIrHTySvcl1Ms-w9UZS6EUX89KC"
+    }
+  ]
+}
