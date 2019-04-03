@@ -43,7 +43,7 @@ class Map extends Component {
         >
           <TileLayer url="http://{s}.tile.osm.org/{z}/{x}/{y}.png" />
           {this.props.data.length > 0 &&
-            this.props.data.map(data => {
+            this.props.filteredData.map(data => {
               return (
                 <Marker
                   onclick={this.handleLocationFound}

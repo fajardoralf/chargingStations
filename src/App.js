@@ -8,6 +8,7 @@ class App extends Component {
     super(props);
     this.state = {
       data: [],
+      filteredData: [],
       searchText: ""
     };
   }
@@ -17,9 +18,12 @@ class App extends Component {
   }
 
   getData = () => {
-    axios
-      .get("https://api.myjson.com/bins/15keca")
-      .then(response => this.setState({ data: response.data.chargers }));
+    axios.get("https://api.myjson.com/bins/15keca").then(response =>
+      this.setState({
+        data: response.data.chargers,
+        filteredData: response.data.chargers
+      })
+    );
   };
 
   handleSearchChange = event => {
@@ -35,7 +39,8 @@ class App extends Component {
               .includes(this.state.searchText.toLowerCase())
           );
         });
-        this.setState({ data: filter });
+
+        this.setState({ filteredData: filter });
       } else {
         this.getData();
       }
@@ -61,7 +66,7 @@ class App extends Component {
         </nav>
 
         <div className="mapid">
-          <Map data={this.state.data} />
+          <Map data={this.state.data} filteredData={this.state.filteredData} />
         </div>
       </div>
     );
